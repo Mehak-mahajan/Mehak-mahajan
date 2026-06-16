@@ -10,7 +10,7 @@ I’m currently pursuing my B.Tech in Artificial Intelligence & Machine Learning
 
 🧠 Learning Data Structures & Algorithms in Java
 🤖 Exploring AI/ML systems and LLM-based applications
-📄 Building real-world projects like Dokify AI (RAG-based document assistant)
+📄 Building real-world projects like Doclify AI (RAG-based document assistant)
 🔍 Focused on problem solving + system thinking, not just coding
 
 💡 What I Believe
