@@ -12,6 +12,7 @@ I’m currently pursuing my B.Tech in Artificial Intelligence & Machine Learning
 🤖 Exploring AI/ML systems and LLM-based applications
 📄 Building real-world projects like Doclify AI (RAG-based document assistant)
 🔍 Focused on problem solving + system thinking, not just coding
+OPEN SOURCE CONTRIBUTOR
 
 💡 What I Believe
 
