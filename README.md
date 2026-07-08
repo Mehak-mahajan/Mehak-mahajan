@@ -5,9 +5,9 @@ AI & ML Student • AI Engineering Enthusiast • Java DSA • Open Source Contr
 </h3>
 
 <p align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&center=true&vCenter=true&width=900&lines=AI+%26+ML+Student;AI+Engineering+Enthusiast;Open+Source+Contributor;Java+DSA+Learner;Building+LLM+Applications)](https://git.io/typing-svg)
-
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&center=true&vCenter=true&width=800&lines=AI+%26+ML+Student;Java+DSA+Learner;Open+Source+Contributor;Building+LLM+Applications;Always+Learning+Something+New"/>
+</a>
 </p>
 
 <p align="center">
@@ -26,168 +26,113 @@ AI & ML Student • AI Engineering Enthusiast • Java DSA • Open Source Contr
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-🎓 B.Tech Computer Science (AI & ML)
-
-💡 Passionate about Artificial Intelligence, Software Engineering, and Open Source.
-
-### 🌱 Currently Learning
-
-- 🧠 Data Structures & Algorithms using Java
-- 🤖 AI Engineering
-- 📚 Large Language Models (LLMs)
-- 🔍 Retrieval-Augmented Generation (RAG)
-- 🐳 Docker
-- ⚛️ React Ecosystem
+- 🎓 B.Tech Computer Science (AI & ML) Student
+- 🧠 Learning Data Structures & Algorithms using Java
+- 🤖 Exploring AI Engineering, LLMs, and Retrieval-Augmented Generation (RAG)
+- 🌐 Building AI-powered and Full-Stack applications
+- 🤝 Open Source Contributor at **wger**
+- 🚀 Passionate about solving real-world problems with AI
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠 Tech Stack
 
-### 💻 Languages
+### Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css,sql"/>
 </p>
 
-### ⚛️ Frameworks & Libraries
+### Frameworks & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=react"/>
+<img src="https://skillicons.dev/icons?i=react,git,github,docker,vscode"/>
 </p>
 
-- LangChain (Basics)
-
-### 🤖 AI & ML
+**AI & ML**
 
 - Retrieval-Augmented Generation (RAG)
-- Large Language Models (LLMs)
+- LangChain (Basics)
 - FAISS
 - Sentence Transformers
 
-### ⚙️ Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode"/>
-</p>
+**Other Tools**
 
 - Streamlit
 - PDFPlumber
 
 ---
 
-# 🌟 Open Source Experience
+## 🌟 Open Source Experience
 
-## 🚀 wger
-
-**Open Source Contributor**
-
-### Contribution
+### 🚀 wger
 
 - Opened my first Pull Request in the **wger** project.
 - Fixed mobile numeric keypad support for **Weight** and **Repetitions** input fields.
-- Worked with **React, TypeScript, JavaScript, HTML5, Docker, Git, and GitHub**.
-- Learned collaborative development through Pull Requests, issue tracking, code reviews, and Git workflows.
+- Worked with **React, TypeScript, JavaScript, HTML5, Git, GitHub, and Docker**.
+- Learned collaborative development through Git workflows, Pull Requests, and code reviews.
 
 ---
 
-# 🏆 Hackathons
-
-## 🚀 HackSpark 2025
+## 🏆 HackSpark 2025
 
 ### 🩺 SwasthAI
 
-An AI-powered healthcare assistant designed to provide preliminary health guidance.
+AI-powered healthcare assistant built during **HackSpark 2025**.
 
-### 👩‍💻 My Role
+**Role:** Frontend Developer
 
-Frontend Developer
+**Tech Stack:** HTML5 • CSS3 • JavaScript
 
-### Technologies Used
-
-- HTML5
-- CSS3
-- JavaScript
-
-### Features
-
-- 🩺 Users enter their symptoms.
-- 🤖 AI provides basic precautions based on the symptoms.
-- 🏠 Suggests home remedies for mild conditions.
-- 👨‍⚕️ Recommends consulting a doctor if symptoms persist for more than two days.
-- 🌍 Built to improve accessibility to basic healthcare guidance.
+**Highlights**
+- Users enter symptoms to receive preliminary health guidance.
+- Provides precautionary measures and home-care suggestions for mild symptoms.
+- Recommends consulting a doctor if symptoms persist for more than two days.
 
 ---
 
-# 📄 Featured Project
+## 🚀 Featured Project
 
-## Doclify AI
+### 📄 Doclify AI
 
 An AI-powered document assistant built using **Retrieval-Augmented Generation (RAG)**.
 
-### Features
+**Tech Stack**
 
-- 📄 Upload PDF documents
+Python • Streamlit • LangChain • FAISS • Sentence Transformers • PDFPlumber
+
+**Features**
+
+- 📄 PDF Upload
 - 🔍 Semantic Search
-- 💬 Ask questions from uploaded documents
-- 🧠 FAISS Vector Database
-- ⚡ Context-aware AI responses
-
-### Tech Stack
-
-- Python
-- Streamlit
-- LangChain
-- FAISS
-- Sentence Transformers
-- PDFPlumber
+- 💬 AI Question Answering
+- 🧠 Context-Aware Responses
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mehak-mahajan&show_icons=true&theme=tokyonight"/>
-
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehak-mahajan&layout=compact&theme=tokyonight"/>
-
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
-
 <img src="https://streak-stats.demolab.com?user=Mehak-mahajan&theme=tokyonight"/>
-
 </p>
 
 ---
 
-# 🌱 Currently Exploring
+## 📫 Connect With Me
 
-- AI Engineering
-- Advanced Java DSA
-- Docker
-- React
-- Generative AI
-- Open Source Development
-
----
-
-# 📫 Connect With Me
-
-📧 **Email**
-
+📧 **Email:**  
 **mahajanmehak985@gmail.com**
 
-💼 **LinkedIn**
-
+💼 **LinkedIn:**  
 **https://www.linkedin.com/in/mehak-mahajan-58a401327**
-
----
-
-⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
