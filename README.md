@@ -26,70 +26,50 @@ AI & ML Student • AI Engineering Enthusiast • Java DSA • Open Source Contr
 
 ---
 
+
 ## 🚀 About Me
 
-- 🎓 B.Tech Computer Science (AI & ML) Student
-- 🧠 Learning Data Structures & Algorithms using Java
-- 🤖 Exploring AI Engineering, LLMs, and Retrieval-Augmented Generation (RAG)
-- 🌐 Building AI-powered and Full-Stack applications
-- 🤝 Open Source Contributor at **wger**
-- 🚀 Passionate about solving real-world problems with AI
+I'm an AI & ML undergraduate passionate about building AI-powered applications, solving problems with code, and contributing to open source.
+
+Currently, I'm focused on:
+
+- 🧠 Strengthening Data Structures & Algorithms using Java
+- 🤖 Learning AI Engineering, LLMs, and Retrieval-Augmented Generation (RAG)
+- 🌐 Building AI-powered and full-stack applications
+- 🤝 Contributing to open-source projects
+- 📚 Continuously learning modern software development technologies
 
 ---
 
-## 🛠 Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css,sql"/>
-</p>
-
-### Frameworks & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,git,github,docker,vscode"/>
-</p>
-
-**AI & ML**
-
-- Retrieval-Augmented Generation (RAG)
-- LangChain (Basics)
-- FAISS
-- Sentence Transformers
-
-**Other Tools**
-
-- Streamlit
-- PDFPlumber
-
----
-
-## 🌟 Open Source Experience
+## 🌟 Open Source
 
 ### 🚀 wger
 
-- Opened my first Pull Request in the **wger** project.
+Open Source Contributor
+
+**Contribution**
+- Opened my first pull request in the **wger** project.
 - Fixed mobile numeric keypad support for **Weight** and **Repetitions** input fields.
 - Worked with **React, TypeScript, JavaScript, HTML5, Git, GitHub, and Docker**.
-- Learned collaborative development through Git workflows, Pull Requests, and code reviews.
+- Learned Git workflows, pull requests, issue tracking, and collaborative development.
 
 ---
 
-## 🏆 HackSpark 2025
+## 🏆 Hackathons
 
-### 🩺 SwasthAI
+### 🚀 HackSpark 2025
 
-AI-powered healthcare assistant built during **HackSpark 2025**.
+Built **SwasthAI**, an AI-powered healthcare assistant.
 
-**Role:** Frontend Developer
+**Role**
+- Developed the frontend using **HTML, CSS, and JavaScript**.
 
-**Tech Stack:** HTML5 • CSS3 • JavaScript
-
-**Highlights**
-- Users enter symptoms to receive preliminary health guidance.
-- Provides precautionary measures and home-care suggestions for mild symptoms.
-- Recommends consulting a doctor if symptoms persist for more than two days.
+**Project Overview**
+- Users enter their symptoms.
+- The system provides precautionary measures based on the symptoms.
+- Suggests home remedies for mild symptoms.
+- Recommends visiting a doctor if symptoms persist for more than two days.
+- Designed to provide preliminary health guidance and improve accessibility to basic healthcare information.
 
 ---
 
@@ -97,42 +77,69 @@ AI-powered healthcare assistant built during **HackSpark 2025**.
 
 ### 📄 Doclify AI
 
-An AI-powered document assistant built using **Retrieval-Augmented Generation (RAG)**.
-
-**Tech Stack**
-
-Python • Streamlit • LangChain • FAISS • Sentence Transformers • PDFPlumber
+An AI-powered document assistant built using **Retrieval-Augmented Generation (RAG).**
 
 **Features**
+- Upload PDF documents
+- Semantic document search
+- AI-powered question answering
+- Vector search using FAISS
+- Context-aware responses using LLMs
 
-- 📄 PDF Upload
-- 🔍 Semantic Search
-- 💬 AI Question Answering
-- 🧠 Context-Aware Responses
+**Tech Stack**
+- Python
+- Streamlit
+- LangChain
+- FAISS
+- Sentence Transformers
+- PDFPlumber
 
 ---
 
-## 📊 GitHub Stats
+## 🛠 Tech Stack
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mehak-mahajan&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehak-mahajan&layout=compact&theme=tokyonight"/>
-</p>
+### Languages
+- Java
+- Python
+- JavaScript
+- TypeScript
+- SQL
+- HTML5
+- CSS3
+
+### Frameworks & Libraries
+- React
+- LangChain (Basics)
+
+### AI & ML
+- Retrieval-Augmented Generation (RAG)
+- Large Language Models (LLMs)
+- FAISS
+- Sentence Transformers
+
+### Tools
+- Git
+- GitHub
+- Docker
+- Streamlit
+- VS Code
 
 ---
 
-## 🔥 GitHub Streak
+## 🌱 Currently Learning
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Mehak-mahajan&theme=tokyonight"/>
-</p>
+- AI Engineering
+- Advanced Java DSA
+- Docker
+- React Ecosystem
+- Generative AI Applications
 
 ---
 
 ## 📫 Connect With Me
 
-📧 **Email:**  
-**mahajanmehak985@gmail.com**
+💼 LinkedIn  
+www.linkedin.com/in/mehak-mahajan-58a401327
 
-💼 **LinkedIn:**  
-**https://www.linkedin.com/in/mehak-mahajan-58a401327**
+📧 Email  
+mahajanmehak985@gmail.com
