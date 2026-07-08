@@ -1,50 +1,99 @@
-👋 Hey, I'm Mehak Mahajan
+# 👋 Hey, I'm Mehak Mahajan
 
-💻 B.Tech Student | 🎯 AIML Enthusiast | ⚡ Java + DSA Explorer
+🎓 B.Tech Computer Science (AI & ML) Student  
+💻 AI Engineering Enthusiast | Java DSA | Open Source Contributor
 
+---
 
+## 🚀 About Me
 
-🚀 About Me
+I'm an undergraduate AI & ML student passionate about building intelligent applications and continuously improving my software development skills.
 
-I’m currently pursuing my B.Tech in Artificial Intelligence & Machine Learning, and I spend most of my time exploring how code turns into real-world systems.
+Currently, I'm focused on:
 
-🧠 Learning Data Structures & Algorithms in Java
-🤖 Exploring AI/ML systems and LLM-based applications
-📄 Building real-world projects like Doclify AI (RAG-based document assistant)
-🔍 Focused on problem solving + system thinking, not just coding
+- 🧠 Strengthening Data Structures & Algorithms using Java
+- 🤖 Learning AI Engineering, LLMs, and Retrieval-Augmented Generation (RAG)
+- 🌐 Building full-stack and AI-powered applications
+- 🤝 Contributing to open-source projects through GitHub
+- 📚 Exploring modern software development tools and best practices
 
-|| OPEN SOURCE CONTRIBUTOR @wger ||
+---
 
-💡 What I Believe
+## 🌟 Open Source
 
-“I don’t just learn DSA to solve problems — I learn it to think better.”
-“AI is not the future — it’s the present we’re building.”
+✨ Open Source Contributor at *wger*
 
-🛠️ Tech Stack
+*Contributions:*
+- Fixed mobile numeric keypad input for *Weight* and *Repetitions* fields in the React application.
+- Worked with *TypeScript, **React, **HTML5, **Git, and **GitHub* in a real-world open-source project.
+- Learned collaborative development using pull requests, code reviews, and Git workflows.
 
-💻 Languages: Java, Python
-📊 DSA: JAVA
-🤖 AI/ML: RAG, LLMs, LangChain basics
-⚙️ Tools: Streamlit, GitHub, PDFPlumber
+---
 
+## 🚀 Featured Project
 
-📫 Let’s Connect
+### 📄 Doclify AI
 
-If you’re into DSA, AI/ML, or building cool projects, let’s connect and grow together 🚀
-linkedin - https://www.linkedin.com/in/mehak-mahajan-58a401327
+An AI-powered document assistant built using Retrieval-Augmented Generation (RAG).
 
-gmail : mahajanmehak985@gmail.com
-<!--
-**Mehak-mahajan/Mehak-mahajan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Features*
+- 📄 PDF Upload & Processing
+- 🔍 Semantic Search
+- 💬 AI Question Answering
+- 🧠 Vector Search with FAISS
 
-Here are some ideas to get you started:
+*Tech Stack*
+- Python
+- Streamlit
+- LangChain
+- FAISS
+- Sentence Transformers
+- PDFPlumber
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+- Java
+- Python
+- JavaScript
+- TypeScript
+- SQL
+- HTML5
+- CSS3
+
+### Frameworks & Libraries
+- React
+- LangChain (Basics)
+
+### AI & ML
+- Retrieval-Augmented Generation (RAG)
+- Large Language Models (LLMs)
+- FAISS
+- Sentence Transformers
+
+### Tools
+- Git
+- GitHub
+- Docker
+- Streamlit
+- VS Code
+
+---
+
+## 🎯 Currently Learning
+
+- AI Engineering
+- Advanced Java DSA
+- Docker
+- React Ecosystem
+- Generative AI Applications
+
+---
+
+## 📫 Connect With Me
+
+💼 LinkedIn: https://www.linkedin.com/in/mehak-mahajan-58a401327
+
+📧 Email: **mahajanmehak985@gmail.com*
