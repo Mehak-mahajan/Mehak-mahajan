@@ -1,48 +1,141 @@
-# 👋 Hey, I'm Mehak Mahajan
+<h1 align="center">Hi 👋, I'm Mehak Mahajan</h1>
 
-🎓 B.Tech Computer Science (AI & ML) Student  
-💻 AI Engineering Enthusiast | Java DSA | Open Source Contributor
+<h3 align="center">
+AI & ML Student • AI Engineering Enthusiast • Java DSA • Open Source Contributor
+</h3>
 
----
+<p align="center">
 
-## 🚀 About Me
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&center=true&vCenter=true&width=900&lines=AI+%26+ML+Student;AI+Engineering+Enthusiast;Open+Source+Contributor;Java+DSA+Learner;Building+LLM+Applications)](https://git.io/typing-svg)
 
-I'm an undergraduate AI & ML student passionate about building intelligent applications and continuously improving my software development skills.
+</p>
 
-Currently, I'm focused on:
+<p align="center">
+<a href="https://www.linkedin.com/in/mehak-mahajan-58a401327">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-- 🧠 Strengthening Data Structures & Algorithms using Java
-- 🤖 Learning AI Engineering, LLMs, and Retrieval-Augmented Generation (RAG)
-- 🌐 Building full-stack and AI-powered applications
-- 🤝 Contributing to open-source projects through GitHub
-- 📚 Exploring modern software development tools and best practices
+<a href="mailto:mahajanmehak985@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
----
-
-## 🌟 Open Source
-
-✨ Open Source Contributor at *wger*
-
-*Contributions:*
-- Fixed mobile numeric keypad input for *Weight* and *Repetitions* fields in the React application.
-- Worked with *TypeScript, **React, **HTML5, **Git, and **GitHub* in a real-world open-source project.
-- Learned collaborative development using pull requests, code reviews, and Git workflows.
+<a href="https://github.com/Mehak-mahajan">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+</p>
 
 ---
 
-## 🚀 Featured Project
+# 🚀 About Me
 
-### 📄 Doclify AI
+🎓 B.Tech Computer Science (AI & ML)
 
-An AI-powered document assistant built using Retrieval-Augmented Generation (RAG).
+💡 Passionate about Artificial Intelligence, Software Engineering, and Open Source.
 
-*Features*
-- 📄 PDF Upload & Processing
+### 🌱 Currently Learning
+
+- 🧠 Data Structures & Algorithms using Java
+- 🤖 AI Engineering
+- 📚 Large Language Models (LLMs)
+- 🔍 Retrieval-Augmented Generation (RAG)
+- 🐳 Docker
+- ⚛️ React Ecosystem
+
+---
+
+# 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css,sql"/>
+</p>
+
+### ⚛️ Frameworks & Libraries
+
+<p>
+<img src="https://skillicons.dev/icons?i=react"/>
+</p>
+
+- LangChain (Basics)
+
+### 🤖 AI & ML
+
+- Retrieval-Augmented Generation (RAG)
+- Large Language Models (LLMs)
+- FAISS
+- Sentence Transformers
+
+### ⚙️ Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode"/>
+</p>
+
+- Streamlit
+- PDFPlumber
+
+---
+
+# 🌟 Open Source Experience
+
+## 🚀 wger
+
+**Open Source Contributor**
+
+### Contribution
+
+- Opened my first Pull Request in the **wger** project.
+- Fixed mobile numeric keypad support for **Weight** and **Repetitions** input fields.
+- Worked with **React, TypeScript, JavaScript, HTML5, Docker, Git, and GitHub**.
+- Learned collaborative development through Pull Requests, issue tracking, code reviews, and Git workflows.
+
+---
+
+# 🏆 Hackathons
+
+## 🚀 HackSpark 2025
+
+### 🩺 SwasthAI
+
+An AI-powered healthcare assistant designed to provide preliminary health guidance.
+
+### 👩‍💻 My Role
+
+Frontend Developer
+
+### Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+
+### Features
+
+- 🩺 Users enter their symptoms.
+- 🤖 AI provides basic precautions based on the symptoms.
+- 🏠 Suggests home remedies for mild conditions.
+- 👨‍⚕️ Recommends consulting a doctor if symptoms persist for more than two days.
+- 🌍 Built to improve accessibility to basic healthcare guidance.
+
+---
+
+# 📄 Featured Project
+
+## Doclify AI
+
+An AI-powered document assistant built using **Retrieval-Augmented Generation (RAG)**.
+
+### Features
+
+- 📄 Upload PDF documents
 - 🔍 Semantic Search
-- 💬 AI Question Answering
-- 🧠 Vector Search with FAISS
+- 💬 Ask questions from uploaded documents
+- 🧠 FAISS Vector Database
+- ⚡ Context-aware AI responses
 
-*Tech Stack*
+### Tech Stack
+
 - Python
 - Streamlit
 - LangChain
@@ -52,48 +145,49 @@ An AI-powered document assistant built using Retrieval-Augmented Generation (RAG
 
 ---
 
-## 🛠️ Tech Stack
+# 📊 GitHub Stats
 
-### Languages
-- Java
-- Python
-- JavaScript
-- TypeScript
-- SQL
-- HTML5
-- CSS3
+<p align="center">
 
-### Frameworks & Libraries
-- React
-- LangChain (Basics)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mehak-mahajan&show_icons=true&theme=tokyonight"/>
 
-### AI & ML
-- Retrieval-Augmented Generation (RAG)
-- Large Language Models (LLMs)
-- FAISS
-- Sentence Transformers
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehak-mahajan&layout=compact&theme=tokyonight"/>
 
-### Tools
-- Git
-- GitHub
-- Docker
-- Streamlit
-- VS Code
+</p>
 
 ---
 
-## 🎯 Currently Learning
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Mehak-mahajan&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🌱 Currently Exploring
 
 - AI Engineering
 - Advanced Java DSA
 - Docker
-- React Ecosystem
-- Generative AI Applications
+- React
+- Generative AI
+- Open Source Development
 
 ---
 
-## 📫 Connect With Me
+# 📫 Connect With Me
 
-💼 LinkedIn: https://www.linkedin.com/in/mehak-mahajan-58a401327
+📧 **Email**
 
-📧 Email: **mahajanmehak985@gmail.com*
+**mahajanmehak985@gmail.com**
+
+💼 **LinkedIn**
+
+**https://www.linkedin.com/in/mehak-mahajan-58a401327**
+
+---
+
+⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
